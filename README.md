@@ -1,5 +1,5 @@
 # Pastel Calculator 🌸🌼
-A simple and visually pleasing calculator with pastel tones, created using HTML, CSS and JavaScript.
+A simple and visually pleasing calculator with pastel tones, created using HTML and CSS.
 
 ![Pastel Calculator](public/images/screenshot.png)
 
@@ -12,7 +12,7 @@ A simple and visually pleasing calculator with pastel tones, created using HTML,
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/your-user/your-repository.git
 ```
 
 2. Open `index.html` in your preferred browser.
